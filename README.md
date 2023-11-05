@@ -1,4 +1,4 @@
-# Aliens Needs Dogs
+# Aliens Need Dogs
 By Yupu Chen, Kyrie Park, Sara Almulla, and Madina Yeleukina
 
 # What is the project? What is the overall concept and theme? What kind of experience were you striving to create?
@@ -48,6 +48,38 @@ Our project revolves around a soundscape adventure set in Earth and space, which
 # Describe your role and what your contribution was. How did you go about implementing the concept?
 
 ##  Sara:
+
+My role was centered largely on illustrating the frames to aid in the visual part of our audiovisual story. I designed half (+ the two simple title and ending frames), while Madina designed the other half. We chose to go for a simple, cartoon-y, and smooth illustration style with no outlines, and our color palette was bright and lively but not too saturated.
+(add color palette)
+
+We used Procreate to illustrate the frames and their components.
+
+### Screencaps of the scenes I illustrated:
+(add screencaps)
+
+We then reused the city background for later scenes— as you’ll see in Madina’s frames.
+
+### I also designed the alien:
+(add png of alien + facial expressions)
+
+### And the people:
+(add png of people)
+Which was a challenge I’ll expand on later.
+
+### After finalizing each design, I worked on writing the script for the narration and then recording it:
+- Slide 1: Once upon a dark space, an alien stumbles upon a water planet.
+- Slide 2: --
+- Slide 3: The people there looked weird. But the alien didn’t care. He was looking for companionship in this galaxy, even if that companion wasn’t blue and bulbous like him.
+- Slide 4: Nevermind.
+- Slide 5: --
+- Slide 6: Wait, what is that thing?
+- Slide 7: --
+- Slide 8: The pit bull was the perfect friend for our fellow alien. He, like the Martian, was an outsider, a supposedly ‘violent’ stray dog to the humans. They needed each other.
+- Slide 9: --
+- Slide 10: And so, the pit bull and the alien vowed to stay by each other’s side in allegiance, exploring the galaxy one planet at a time till the end of eternity. Hey! Might as well be eccentric together!
+
+I tried to make it brief but straightforward— with a narrative, quirky, and conversational touch. I wanted to make sure it consulted the story without overpowering the sound effects.
+
 
 ##  Madina:
 
