@@ -85,6 +85,8 @@ I tried to make it brief but straightforward— with a narrative, quirky, and co
 
 ##  Yupu:
 
+I did the sound design of the project. For the sound design, I used Logic Pro X as the workplace. For the audios, I combined our original recordings with some sound samples from the NYU Stock Sound Library and Soundly (all can be accessed through iMacs in the musci classroom). 
+
 ##  Kyrie:
 
 
