@@ -15,7 +15,7 @@ Our project revolves around a soundscape adventure set in Earth and space, which
 - Narration
 #### 2. Alien sees earth and decides to land there
 - Spaceship landing sound effect
-#### 3. Alien makes speech (done)
+#### 3. Alien makes speech
 - City sounds, traffic, talking, sirens
 - Alien voice changer for speech
 - Narration
