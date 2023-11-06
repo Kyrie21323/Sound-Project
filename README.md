@@ -92,6 +92,14 @@ I tried to make it brief but straightforward— with a narrative, quirky, and co
 
 ##  Sara:
 
+To illustrate the frames, we first had to write the storyline. We were able to finalize this during our first meeting in-class, so i started coming up with the design style and showing my group members straight after. After I finished a scene, I uploaded it to Google Drive for my team members to check in case they had any feedback or felt that modifications needed to be made, which helped clarify the creative vision.
+
+### Drawing the people and their arms was pretty difficult
+I'm  not an artist so I'm not very well versed with human anatomy (even if it's cartoon-y), but image references certainly helped. Like in the last project, clipart versions of elements i wanted to illustrate helped me visualize how I wanted the frames to look-- and in turn helped me modify each element to suit our designated styling.
+(insert image reference + result)
+
+### Storyboard vs final scene (example)
+
 ##  Madina:
 
 ##  Yupu:
