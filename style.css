@@ -2,12 +2,67 @@ body {
     background-image: url(./img/0.png);
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
+    transition: background-image 1s;
+
+    overflow: hidden;
+}
+
+#full-audio {
+    cursor: pointer;
+    position: absolute;
+    top:37vh;
+    left: 44vw;
+
+    font-size: 35px;
+    font-family: Pixel-Bold;
+    color: aliceblue;
+    background-color: transparent;
+}
+#full-audio:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+#about-btn {
+    cursor: pointer;
+    position:absolute;
+    right: 20px;
+
+    width: auto;
+    height: auto;
+
+    font-size: 40px;
+    font-family: Pixel-Bold;
+    color: aliceblue;
+    background-color: transparent;
+}
+#about-btn:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+#about {
+    position:absolute;
+    top: 60px;
+    right: -550px;
+
+    width: 500px;
+    height: 100vh;
+
+    text-align: center;
+    font-size: 25px;
+    font-family: Pixel;
+    color: aliceblue;
+    background-color: rgb(41, 41, 41);
+
+    transition: right 1s;
 }
 
 #next-btn {
+    cursor: pointer;
     position:absolute;
-    top: 80vh;
-    left: 60vw;
+    top: 90vh;
+    left: 46vw;
 
     width: auto;
     height: auto;
@@ -15,14 +70,11 @@ body {
     font-size: 40px;
 }
 
-#next-btn:hover {
-    cursor: pointer;
-}
-
 #prev-btn {
+    cursor: pointer;
     visibility: hidden;
     position:absolute;
-    top: 80vh;
+    top: 90vh;
     left: 34vw;
 
     width: auto;
@@ -31,21 +83,30 @@ body {
     font-size: 40px;
 }
 
-#prev-btn:hover {
-    cursor: pointer;
-}
 
 #replay {
+    position: absolute;
     visibility: hidden;
-    width: 100px;
-    height: 100px;
-    background-image: url(./replay.png);
+    left: 60px;
+    width: 48px;
+    height: 48px;
+    background-image: url("./replay.png");
     background-size: cover;
     background-color: transparent;
 }
 
 #replay:hover {
     cursor: pointer;
+    background-color: antiquewhite;
+}
+
+#earth {
+    cursor: pointer;
+    visibility: hidden;
+    position:absolute;
+    width: 48px;
+    height: 48px;
+    background-color: transparent;
 }
 
 @font-face {
