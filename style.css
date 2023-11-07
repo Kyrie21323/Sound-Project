@@ -1,13 +1,13 @@
 body {
-    background-image: url(./img/TITLE\ SLIDE.png);
+    background-image: url(./img/0.png);
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
 
-#start-btn {
+#next-btn {
     position:absolute;
-    top: 65vh;
-    left: 47vw;
+    top: 80vh;
+    left: 60vw;
 
     width: auto;
     height: auto;
@@ -15,7 +15,23 @@ body {
     font-size: 40px;
 }
 
-#start-btn:hover {
+#next-btn:hover {
+    cursor: pointer;
+}
+
+#prev-btn {
+    visibility: hidden;
+    position:absolute;
+    top: 80vh;
+    left: 34vw;
+
+    width: auto;
+    height: auto;
+    font-family: Pixel-Bold;
+    font-size: 40px;
+}
+
+#prev-btn:hover {
     cursor: pointer;
 }
 
