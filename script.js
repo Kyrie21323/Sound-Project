@@ -1,6 +1,6 @@
 let nextBtn = document.getElementById('next-btn');
 let prevBtn = document.getElementById('prev-btn');
-const aud_file = ['1','2','3','4','5','6','7','8'];
+const aud_file = ['1','2','3','4','5','6','7','8','9','10'];
 let replay = document.getElementById('replay');
 
 let slide_num = 0;
