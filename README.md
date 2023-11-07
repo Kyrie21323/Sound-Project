@@ -55,15 +55,15 @@ My role was centered largely on illustrating the frames to aid in the visual par
 We used Procreate to illustrate the frames and their components.
 
 ### Screencaps of the scenes I illustrated:
-(add screencaps)
+![Untitled_Artwork 17](https://github.com/Kyrie21323/Sound-Project/assets/144206983/432e664c-913c-4292-ba21-1a184adec968)
 
 We then reused the city background for later scenes— as you’ll see in Madina’s frames.
 
 ### I also designed the alien:
-(add png of alien + facial expressions)
+![Alien 2](https://github.com/Kyrie21323/Sound-Project/assets/144206983/7a7072f7-870e-46f5-8095-db0417219456)
 
 ### And the people:
-(add png of people)
+![Untitled_Artwork 18](https://github.com/Kyrie21323/Sound-Project/assets/144206983/d5a94fa0-a8c6-4d76-a06b-13038b5d9c23)
 Which was a challenge I’ll expand on later.
 
 ### After finalizing each design, I worked on writing the script for the narration and then recording it:
@@ -94,11 +94,11 @@ I did the sound design of the project. For the sound design, I used Logic Pro X 
 
 ##  Sara:
 
-To illustrate the frames, we first had to write the storyline. We were able to finalize this during our first meeting in-class, so i started coming up with the design style and showing my group members straight after. After I finished a scene, I uploaded it to Google Drive for my team members to check in case they had any feedback or felt that modifications needed to be made, which helped clarify the creative vision.
+To illustrate the frames, we first had to write the storyline. We were able to finalize this during our first meeting in-class, so I started coming up with the design style and showing my group members straight after. After I finished a scene, I uploaded it to Google Drive for my team members to check in case they had any feedback or felt that modifications needed to be made, which helped clarify the creative vision.
 
 ### Drawing the people and their arms was pretty difficult
-I'm  not an artist so I'm not very well versed with human anatomy (even if it's cartoon-y), but image references certainly helped. Like in the last project, clipart versions of elements i wanted to illustrate helped me visualize how I wanted the frames to look-- and in turn helped me modify each element to suit our designated styling.
-(insert image reference + result)
+I'm  not an artist so I'm not very well versed with human anatomy (even if it's cartoon-y), but image references certainly helped. Like in the last project, clipart versions of elements I wanted to illustrate helped me visualize how I wanted the frames to look-- and in turn helped me modify each element to suit our designated styling.
+![Untitled_Artwork 19](https://github.com/Kyrie21323/Sound-Project/assets/144206983/47ff3f2f-6fca-42be-9ef6-f54618482cf3)
 
 ### Storyboard vs final scene (example)
 
