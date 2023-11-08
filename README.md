@@ -50,7 +50,7 @@ Our project revolves around a soundscape adventure set in Earth and space, which
 ##  Sara:
 
 My role was centered largely on illustrating the frames to aid in the visual part of our audiovisual story. I designed half (+ the two simple title and ending frames), while Madina designed the other half. We chose to go for a simple, cartoon-y, and smooth illustration style with no outlines, and our color palette was bright and lively but not too saturated.
-(add color palette)
+![IMG_1203 2](https://github.com/Kyrie21323/Sound-Project/assets/144206983/ae78e40e-1a03-4a48-b97c-075369ebf3ae)
 
 We used Procreate to illustrate the frames and their components.
 
