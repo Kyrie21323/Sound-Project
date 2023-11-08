@@ -89,17 +89,17 @@ I did the sound design of the project. For the sound design, I used Logic Pro X 
 
 Here's the overal workspace:
 
-![LOGIC WORKSPACE](/Users/godfery/Downloads/LOGIC WORKSPACE.png)
+<img width="2328" alt="LOGIC WORKSPACE" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/01c53797-97a7-43cb-8123-734722aeae35">
 
 For example, there are many different layers of the background noice in the city, including the car horn, talking, screaming, and footsteps. I put them on top of each other when necessary to help the narration of the story. Moreover, between different scenes I added fade-in, fade-out, or cross-fade effects (as shown also above) to make natural and smooth transitions and making the addition or removal of some layers not too sharp for the listeners.
 
 Specifically, there are two technique/effects I used to modify the soundtracks. The first only is the effects including equalizer and amplifier, both of which are built in Logic Pro X. Together, by changing the volumes of different frequencies and imitating the functioning of an amplifier, I made the narrations sound like from an ancient, distant story teller and the alien voice more dramatic and spacelike. 
 
-![EFFECTS](/Users/godfery/Downloads/EFFECTS.png)
+<img width="2418" alt="EFFECTS" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/138aa3ae-029b-4844-8a0b-63517628c0aa">
 
 Secondly, I used automation function to make the soundtracks balanced in volumes. There are two benefits. The first one is to fix the unequal volume as a result of various sound sources, and the second one is to accentuate the main sounds as the story proceeds. For example, when the alien speaks, I turned down the volume of background noise a bit so that the audience knows the alien voice is what to pay attention to. This adds to the storytelling of the soundscape.
 
-![AUTOMATION](/Users/godfery/Downloads/AUTOMATION.png)
+<img width="2183" alt="AUTOMATION" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/ca2ff92a-b457-4c4a-ad3c-dfc83ce4e5ef">
 
 Besides sound design, I helped design and code the webpage. I designed the About button and its content, the spinning earth that leads to the homepage, and the Audio Only button that plays the full audio. These parts of the web design help the audience navigate the website better and give them more flexibility of what to see and what to listen to. Through these designs of mine, I hope the audience could explore and enjoy the story more with their own pace.
 
