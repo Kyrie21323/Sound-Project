@@ -85,7 +85,23 @@ I tried to make it brief but straightforward— with a narrative, quirky, and co
 
 ##  Yupu:
 
-I did the sound design of the project. For the sound design, I used Logic Pro X as the workplace. For the audios, I combined our original recordings with some sound samples from the NYU Stock Sound Library and Soundly (all can be accessed through iMacs in the musci classroom). 
+I did the sound design of the project. For the sound design, I used Logic Pro X as the workplace. For the audios, I combined our original recordings with some sound samples from the NYU Stock Sound Library and Soundly (all can be accessed through iMacs in the music classroom). Thanks to the multitrack editing function of Logic Pro X, I am able to edit, add effect, and equalize all the tracks easily.
+
+Here's the overal workspace:
+
+![LOGIC WORKSPACE](/Users/godfery/Downloads/LOGIC WORKSPACE.png)
+
+For example, there are many different layers of the background noice in the city, including the car horn, talking, screaming, and footsteps. I put them on top of each other when necessary to help the narration of the story. Moreover, between different scenes I added fade-in, fade-out, or cross-fade effects (as shown also above) to make natural and smooth transitions and making the addition or removal of some layers not too sharp for the listeners.
+
+Specifically, there are two technique/effects I used to modify the soundtracks. The first only is the effects including equalizer and amplifier, both of which are built in Logic Pro X. Together, by changing the volumes of different frequencies and imitating the functioning of an amplifier, I made the narrations sound like from an ancient, distant story teller and the alien voice more dramatic and spacelike. 
+
+![EFFECTS](/Users/godfery/Downloads/EFFECTS.png)
+
+Secondly, I used automation function to make the soundtracks balanced in volumes. There are two benefits. The first one is to fix the unequal volume as a result of various sound sources, and the second one is to accentuate the main sounds as the story proceeds. For example, when the alien speaks, I turned down the volume of background noise a bit so that the audience knows the alien voice is what to pay attention to. This adds to the storytelling of the soundscape.
+
+![AUTOMATION](/Users/godfery/Downloads/AUTOMATION.png)
+
+Besides sound design, I helped design and code the webpage. I designed the About button and its content, the spinning earth that leads to the homepage, and the Audio Only button that plays the full audio. These parts of the web design help the audience navigate the website better and give them more flexibility of what to see and what to listen to. Through these designs of mine, I hope the audience could explore and enjoy the story more with their own pace.
 
 ##  Kyrie:
 
@@ -105,6 +121,8 @@ I'm  not an artist so I'm not very well versed with human anatomy (even if it's 
 ##  Madina:
 
 ##  Yupu:
+
+The hardest part from my side
 
 ##  Kyrie:
 
