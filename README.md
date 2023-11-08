@@ -124,6 +124,8 @@ I'm  not an artist so I'm not very well versed with human anatomy (even if it's 
 
 The hardest part from my side is balancing different soundtracks and manipuling the storytellng by sound. For example, I spent a long time thinking about how long each sound should be for each scene. It's good to make, for instance, the first scene and its sound long so that people can immerse themselves into the story's setting. However, it's a bad idea to make it too long so that people get bored at it in the beginning. The same decision goes for when the narrations come in and what the background sound should be there during the narrations. I overcame this challenge by trying millions of times and comparing it to our original script and designed slides. Moreover, I imagined myself as the potential audience and reflected on what I would expected from the experience. With different trials, the soundscape eventually became what it is now, which in my mind successfully tells the story we want it to tell.
 
+<img width="1322" alt="Screenshot 2023-11-08 at 6 51 28 PM" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/c64f6492-6671-4db9-a506-f0513d3072b7">
+
 For the website, we didn't plan to add the function of playing the full audio without the slides at first. However, as I finalized the website, I realized that it would be interesting if someone just wants to experience the audio without any visual aid, and it can be a good testament to our soundspace on its ability to tell a story on its own. Therefore, I added this function in the end, and surprisingly it works well both functionally and aesthetically!
 
 ##  Kyrie:
