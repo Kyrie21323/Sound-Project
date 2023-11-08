@@ -89,17 +89,23 @@ I did the sound design of the project. For the sound design, I used Logic Pro X 
 
 Here's the overal workspace:
 
+
 <img width="2328" alt="LOGIC WORKSPACE" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/01c53797-97a7-43cb-8123-734722aeae35">
+
 
 For example, there are many different layers of the background noice in the city, including the car horn, talking, screaming, and footsteps. I put them on top of each other when necessary to help the narration of the story. Moreover, between different scenes I added fade-in, fade-out, or cross-fade effects (as shown also above) to make natural and smooth transitions and making the addition or removal of some layers not too sharp for the listeners.
 
 Specifically, there are two technique/effects I used to modify the soundtracks. The first only is the effects including equalizer and amplifier, both of which are built in Logic Pro X. Together, by changing the volumes of different frequencies and imitating the functioning of an amplifier, I made the narrations sound like from an ancient, distant story teller and the alien voice more dramatic and spacelike. 
 
+
 <img width="2418" alt="EFFECTS" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/138aa3ae-029b-4844-8a0b-63517628c0aa">
+
 
 Secondly, I used automation function to make the soundtracks balanced in volumes. There are two benefits. The first one is to fix the unequal volume as a result of various sound sources, and the second one is to accentuate the main sounds as the story proceeds. For example, when the alien speaks, I turned down the volume of background noise a bit so that the audience knows the alien voice is what to pay attention to. This adds to the storytelling of the soundscape.
 
+
 <img width="2183" alt="AUTOMATION" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/ca2ff92a-b457-4c4a-ad3c-dfc83ce4e5ef">
+
 
 Besides sound design, I helped design and code the webpage. I designed the About button and its content, the spinning earth that leads to the homepage, and the Audio Only button that plays the full audio. These parts of the web design help the audience navigate the website better and give them more flexibility of what to see and what to listen to. Through these designs of mine, I hope the audience could explore and enjoy the story more with their own pace.
 
@@ -124,7 +130,9 @@ I'm  not an artist so I'm not very well versed with human anatomy (even if it's 
 
 The hardest part from my side is balancing different soundtracks and manipuling the storytellng by sound. For example, I spent a long time thinking about how long each sound should be for each scene. It's good to make, for instance, the first scene and its sound long so that people can immerse themselves into the story's setting. However, it's a bad idea to make it too long so that people get bored at it in the beginning. The same decision goes for when the narrations come in and what the background sound should be there during the narrations. I overcame this challenge by trying millions of times and comparing it to our original script and designed slides. Moreover, I imagined myself as the potential audience and reflected on what I would expected from the experience. With different trials, the soundscape eventually became what it is now, which in my mind successfully tells the story we want it to tell.
 
+
 <img width="1322" alt="Screenshot 2023-11-08 at 6 51 28 PM" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/c64f6492-6671-4db9-a506-f0513d3072b7">
+
 
 For the website, we didn't plan to add the function of playing the full audio without the slides at first. However, as I finalized the website, I realized that it would be interesting if someone just wants to experience the audio without any visual aid, and it can be a good testament to our soundspace on its ability to tell a story on its own. Therefore, I added this function in the end, and surprisingly it works well both functionally and aesthetically!
 
