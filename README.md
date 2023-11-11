@@ -82,6 +82,21 @@ I tried to make it brief but straightforward— with a narrative, quirky, and co
 
 
 ##  Madina:
+My role was to draw the second half of the sketches. Even though we agreed on the general style of the frames, I still needed to make sure that my frames are consistent with the frames Sara drew. 
+
+### Dog
+I designed the dog’s character from scratch. I tried to make it cartoon-y to match the simplistic style of the alien. But I still needed to add enough details for the pit bull to be recognizable such as shadows and extra facial features. Since the dog is the second main character, I wanted it to have different expressions and postures. I drew 2 postures: standing and sitting, and 2 facial expressions: happy and neutral.
+
+### Ice cream truck
+I drew the ice cream truck from scratch. Similar to the dog, I tried to draw it simple, but again with enough details so that people will be interested in looking at the frames. I tried to make it colorful and joyful and hence used very bright colors. 
+
+Regarding the alien and the background, Sara drew them and shared them with me because we wanted the comics to be consistent. But I needed to alter those illustrations and create more variations of them. In that way, our frames could be more interesting and realistic. 
+
+### Alien
+After Sara designed the character, she sent me a png image of the alien. I wanted to add some motion to the character, so I redrew the alien's body, hands, and legs in the same style.
+
+### Background
+Sara already drew the city background and we decided to use it for other frames too. But I additionally wanted to show some parallax effect of the alien moving and hence made some changes to the background like positions of the trees and the buildings.
 
 ##  Yupu:
 
@@ -125,6 +140,11 @@ I'm  not an artist so I'm not very well versed with human anatomy (even if it's 
 ### Storyboard vs final scene (example)
 
 ##  Madina:
+During the illustration process, I faced two main challenges. 
+
+The first one involved designing the dog. We agreed beforehand on a specific breed of the dog and hence I did not have much freedom regarding how I wanted to design the character. Initially I drew the dog in a standing position with a neutral facial expression. However, I later struggled with drawing a smiling face and a sitting posture. Through multiple redraws and reference to pit bull images, I got the result I was satisfied with.
+
+The second challenge was drawing the frame depicting the dog and the alien levitating to enter the UFO. I wanted to convey the physical forces happening at that moment and hence drew the character a bit stretched. In the case of the alien, it was not difficult because of its simple shape. But when I drew the dog I did not know how to achieve that effect. In my first version, I found a picture of a levitating dog and used it as a reference. But since it did not resemble a pit bull, I went through versions 2 and 3.
 
 ##  Yupu:
 
