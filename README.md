@@ -86,17 +86,21 @@ My role was to draw the second half of the sketches. Even though we agreed on th
 
 ### Dog
 I designed the dog’s character from scratch. I tried to make it cartoon-y to match the simplistic style of the alien. But I still needed to add enough details for the pit bull to be recognizable such as shadows and extra facial features. Since the dog is the second main character, I wanted it to have different expressions and postures. I drew 2 postures: standing and sitting, and 2 facial expressions: happy and neutral.
+![dogs](https://github.com/Kyrie21323/Sound-Project/assets/71078095/0476cfe2-885f-4163-afcd-5f20e5baafd8)
 
 ### Ice cream truck
-I drew the ice cream truck from scratch. Similar to the dog, I tried to draw it simple, but again with enough details so that people will be interested in looking at the frames. I tried to make it colorful and joyful and hence used very bright colors. 
+I drew the ice cream truck from scratch. Similar to the dog, I tried to draw it simply, but again with enough details so that people would be interested in looking at the frames. I tried to make it colorful and joyful and hence used very bright colors. 
+![alien_meets_dog 6](https://github.com/Kyrie21323/Sound-Project/assets/71078095/7ff6b51a-42e5-49e5-bf81-5919cc030229)
 
 Regarding the alien and the background, Sara drew them and shared them with me because we wanted the comics to be consistent. But I needed to alter those illustrations and create more variations of them. In that way, our frames could be more interesting and realistic. 
 
 ### Alien
 After Sara designed the character, she sent me a png image of the alien. I wanted to add some motion to the character, so I redrew the alien's body, hands, and legs in the same style.
+![aliens](https://github.com/Kyrie21323/Sound-Project/assets/71078095/7f8310ed-f38e-4e4e-9068-adb192a93be0)
 
 ### Background
 Sara already drew the city background and we decided to use it for other frames too. But I additionally wanted to show some parallax effect of the alien moving and hence made some changes to the background like positions of the trees and the buildings.
+![backgrounds](https://github.com/Kyrie21323/Sound-Project/assets/71078095/663ed9d5-80e1-42b2-a055-1ecb871efbad)
 
 ##  Yupu:
 
@@ -142,9 +146,10 @@ I'm  not an artist so I'm not very well versed with human anatomy (even if it's 
 ##  Madina:
 During the illustration process, I faced two main challenges. 
 
-The first one involved designing the dog. We agreed beforehand on a specific breed of the dog and hence I did not have much freedom regarding how I wanted to design the character. Initially I drew the dog in a standing position with a neutral facial expression. However, I later struggled with drawing a smiling face and a sitting posture. Through multiple redraws and reference to pit bull images, I got the result I was satisfied with.
+The first one involved designing the dog. We agreed beforehand on a specific breed of dog and hence I did not have much freedom regarding how I wanted to design the character. Initially, I drew the dog in a standing position with a neutral facial expression. However, I later struggled with drawing a smiling face and a sitting posture. Through multiple redraws and references to pit bull images, I got the result I was satisfied with.
 
 The second challenge was drawing the frame depicting the dog and the alien levitating to enter the UFO. I wanted to convey the physical forces happening at that moment and hence drew the character a bit stretched. In the case of the alien, it was not difficult because of its simple shape. But when I drew the dog I did not know how to achieve that effect. In my first version, I found a picture of a levitating dog and used it as a reference. But since it did not resemble a pit bull, I went through versions 2 and 3.
+![flying dogs](https://github.com/Kyrie21323/Sound-Project/assets/71078095/f07d967e-df11-42b6-a0f3-ea56d633ca13)
 
 ##  Yupu:
 
