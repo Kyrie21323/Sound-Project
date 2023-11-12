@@ -14,10 +14,10 @@ let myAudio = document.getElementById(aud_file[count + 1]);
 
 let pause_time = 0;
 
-fullAudio.onended = function() {
+fullAudio.onended = function () {
     pause_time = 0;
 }
-fullAudioBtn.onclick = function() {
+fullAudioBtn.onclick = function () {
     if (fullAudio.paused) {
         fullAudio.currentTime = pause_time;
         fullAudio.play();
@@ -64,6 +64,9 @@ nextBtn.onclick = function () {
 
     if (slide_num == 0) {
         nextBtn.style.left = '60vw';
+        about.style.right = '-550px';
+        fullAudio.pause();
+        pause_time = 0;
     }
     slide_num += 1;
 
