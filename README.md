@@ -135,7 +135,7 @@ For sound effects, I mainly focused on the tracks that could be recorded origina
 
 For coding the website, Yupu and I came up with the idea to use the commic image as the basic background, where the background changes as the user/viewer of the website interacts. At first, using js, we had the next and previous button where each of the button changes the value of the slide number and count variable where according to the slide number, both the background image and audio changes. I also wanted the users of the website to have a thorough listening to the audio for each slide and inserted the function where only the audio ends, they get an option to replay the audio, or move on to the next slide.
 
-<img width="2183" alt="AUTOMATION" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/ca2ff92a-b457-4c4a-ad3c-dfc83ce4e5ef">
+<img width="488" alt="code1" src="https://github.com/Kyrie21323/Sound-Project/assets/70956027/ca7344da-e5bf-49f7-95b5-30ad5a9097c8">
 
 This is how I coded the button, and as it shows, everytime the button is clicked, it hides all previous, next, and the replay button, but shows all of them when the audio is 'ended'.
 
