@@ -175,6 +175,7 @@ For the website, we didn't plan to add the function of playing the full audio wi
 While working on this project, the hardest challenge I had was when I was coding. At first, I was thinking of making separate pages for the website and open each according web page when a button is clicked. I later found out that it would be much easier to put all of the functions I need (automatically playing the matching audio, showing the image, hiding and showing buttons when needed) into the button clicked function. After rebuilding my code, everything worked fine except for one little error, which was the the audio, where if the user moved to the next slide and came back, would be played where ever the user last left. The previous audio would also not stop, making multiples sounds at the same time. I wanted the users to listen from the start of the audio, and therefore had to figure out a way to reset the audio setting whenever the user left the page. So, I added
 
 document.getElementById(aud_file[count-1]).pause();
+
 document.getElementById(aud_file[count-1]).currentTime = 0;
 
 these two lines inside the nextbutton, and for previous button it would be [count+1]. The upper one pauses the previous sound when the button is clicked (fixes the multiple audio problem), and the lower line resets the audio time to 0(ables users to listen from the start of the audio when they go back to the previous slide).
