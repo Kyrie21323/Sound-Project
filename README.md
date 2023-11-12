@@ -129,7 +129,17 @@ Secondly, I used automation function to make the soundtracks balanced in volumes
 Besides sound design, I helped design and code the webpage. I designed the About button and its content, the spinning earth that leads to the homepage, and the Audio Only button that plays the full audio. These parts of the web design help the audience navigate the website better and give them more flexibility of what to see and what to listen to. Through these designs of mine, I hope the audience could explore and enjoy the story more with their own pace.
 
 ##  Kyrie:
+For this project, I took care of sound effects, and coding for the website.
 
+For sound effects, I mainly focused on the tracks that could be recorded originally by us. The tracks include the alien's lines, foot steps and people screaming. I enjoy recording myself singing music regularly, so I fortunately had all the equipments I need to record these tasks. For tracks like footsteps, it was used for two scenes; one where people run away from the alien, and one where the alien is walking around after all the people ran away. For the first scene I recorded my own footsteps at the gym in C2 building, where the footsteps sounds clear. For the second scene, I had to record multiple people running around which was not easy to get with out all of their consent, so I recorded three of my friends to make running footsteps multiple times. With the recorded samples, I repeated them and layered over the samples with each other to make a much more caotic sound which fits with the scene. No other echo or distortion in the audio was needed for these tracks. For the alien's voice, I used logic pro X to add different layers of the same audio (my raw voice). With EVOC 20 polysynth, I have changed the pitch, resonance, and tune one by one to get closer to a electronic, low voice - what people generally think of an alien voice.
+
+For coding the website, Yupu and I came up with the idea to use the commic image as the basic background, where the background changes as the user/viewer of the website interacts. At first, using js, we had the next and previous button where each of the button changes the value of the slide number and count variable where according to the slide number, both the background image and audio changes. I also wanted the users of the website to have a thorough listening to the audio for each slide and inserted the function where only the audio ends, they get an option to replay the audio, or move on to the next slide.
+
+<img width="2183" alt="AUTOMATION" src="https://github.com/Kyrie21323/Sound-Project/assets/112383893/ca2ff92a-b457-4c4a-ad3c-dfc83ce4e5ef">
+
+This is how I coded the button, and as it shows, everytime the button is clicked, it hides all previous, next, and the replay button, but shows all of them when the audio is 'ended'.
+
+I also didn't want the users to press the previous button on the first slide or the next button on the last slide because then the website will not be able to find the according audio and image for it, and hid the button whenever the user opens the website(first page), and hid the next button on the last page.
 
 # Reflection/Evaluation (initial vs final concept, expectations, goals, problems, results)
 
